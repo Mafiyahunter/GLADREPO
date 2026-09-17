@@ -1,6 +1,10 @@
 {
     "serverstatus":"true",
-    "servermeassage":"Wait For New Update 😁!",
-    "tg_name":"☠️ WELCOME TO GLAD V.I.P MOD ☠️",
-    "libs":""
+    "noticemode":"true",
+    "dataclearmode":"false",
+    "servermeassage":"Wait We Are Working On a new Update",
+    "opentime":" Wait For Some Time ⚡",
+    "libs":"",
+    "notice_title":"☠️ WELCOME TO GLAD V.I.P MOD ☠️",
+    "notice_body":""
 }
